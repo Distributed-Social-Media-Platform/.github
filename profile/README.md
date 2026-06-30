@@ -5,8 +5,8 @@ An event-driven, horizontally scalable microservices ecosystem designed to handl
 ---
 
 ## 🔗 Project Artifacts
-* **Engineering Design Document:** [View Architecture Specifications & Deep Dives](YOUR_DESIGN_DOC_LINK)
-* **End-to-End System Demo:** [Watch the Deployment & Load Testing Video](YOUR_DEMO_VIDEO_LINK)
+* **Engineering Design Document:** [View Architecture Specifications & Deep Dives](https://docs.google.com/document/d/1nsxwAS25OM2eRazXJoB9zwbnMFIg-dViZ0xl2HduEL0/edit?tab=t.0)
+* **End-to-End System Demo:** [Watch the Deployment & Load Testing Video](https://www.youtube.com/watch?v=o-gpOsAnS_w)
 
 ---
 
@@ -39,10 +39,6 @@ The system was subjected to rigorous stress testing up to 1,000 concurrent virtu
 
 ---
 
-## 🛠️ Local Development & Cluster Diagnosis
 
-### **Prerequisites**
-```bash
-kubectl version --client
-aws --version
-```
+
+
